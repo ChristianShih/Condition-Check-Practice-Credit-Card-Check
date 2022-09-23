@@ -1,0 +1,5 @@
+﻿  CreditCard.cpp
+C:\Users\Chris\Desktop\ChristianShih-Assignment03-CreditCard\ChristianShih-Assignment03-CreditCard\CreditCard.cpp(39,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Chris\Desktop\ChristianShih-Assignment03-CreditCard\ChristianShih-Assignment03-CreditCard\CreditCard.cpp(47,4): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Chris\Desktop\ChristianShih-Assignment03-CreditCard\ChristianShih-Assignment03-CreditCard\CreditCard.cpp(55,4): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ChristianShih-Assignment03-CreditCard.vcxproj -> C:\Users\Chris\Desktop\ChristianShih-Assignment03-CreditCard\x64\Debug\ChristianShih-Assignment03-CreditCard.exe
